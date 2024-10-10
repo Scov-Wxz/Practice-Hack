@@ -17,12 +17,14 @@ freesvr
 group-admin
 guest
 hillstone
+iw
 ladmin
 leadsec
 leyougw
 li
 none
 ns25000
+oo
 ovo
 OvO
 oxo
