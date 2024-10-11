@@ -44,6 +44,8 @@ api/v1/swagger.json
 b
 background.jpg
 backup
+bin.bak
+bin.rar
 blog
 cgi-bin
 Change
@@ -56,6 +58,8 @@ console
 contents
 css
 data
+database
+Database
 db
 dbviewer
 demo
@@ -98,6 +102,8 @@ files.tar.bz2
 files.tar.gz
 files.zip
 files/
+form
+front
 getslack
 git/
 gitbucket
@@ -109,6 +115,7 @@ global
 h2-console
 hello
 home
+host
 html
 img
 index
@@ -121,6 +128,7 @@ ip.txt
 Job
 js
 jsp
+lang
 list
 log
 login
@@ -140,6 +148,7 @@ News
 nginx_status
 node
 note
+obj
 order.log
 order.txt
 party
@@ -171,12 +180,15 @@ phpMyAdmin/index.php
 phpmyadmin/phpmyadmin/index.php
 phpMyAdmin/phpMyAdmin/index.php
 phpmyadmin/README
+plugin
+plugin.php
 preferences.php
 privacy
 products
 profile
 Profile
 properties
+Properties
 query
 rails
 readme
@@ -198,6 +210,7 @@ seeyon
 server-status
 server-status/
 setup
+setup.php
 share
 shell
 show
@@ -221,6 +234,7 @@ swagger/index.html
 swagger/v1/swagger.json
 tag
 tags
+tmp
 tomcat-docs
 translators.html
 upload
@@ -258,9 +272,11 @@ var
 viewer
 vue
 weatherforecast
+Web
 WEB-INF
 webdav/
 webdav/index.html
+WebReleas
 wordpress.tar
 wordpress.tar.bz2
 wordpress.tar.gz
