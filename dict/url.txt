@@ -8,6 +8,7 @@ _query
 .bash_logout
 .bash_profile
 .cfg
+.cgi
 .config
 .git
 .gitbucket
@@ -35,6 +36,8 @@ _query
 about
 admin
 admin/
+admincert
+admincert.cgi
 aliyun
 api
 api/user.json
@@ -47,6 +50,7 @@ backup
 bin.bak
 bin.rar
 blog
+cert
 cgi-bin
 Change
 changelog
@@ -67,6 +71,8 @@ detail
 doc/html/index.html
 Documetation.html 
 Documetation.txt 
+download
+downloads
 engine
 env
 etc
@@ -117,6 +123,8 @@ hello
 home
 host
 html
+image
+images
 img
 index
 index.html

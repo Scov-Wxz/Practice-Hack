@@ -20,14 +20,14 @@ PORT   STATE SERVICE VERSION
 |_http-title: Sightless.htb
 |_http-server-header: nginx/1.18.0 (Ubuntu)
 
-$ vi /etc/host
+$ vi /etc/hosts
 [+] 10.11.11.11 sightless.htb
 ```
 
 访问 sightless.htb，其中有一个跳转到 sqlpad.sightless.htb
 
 ```shell
-$ vi /etc/host
+$ vi /etc/hosts
 [+] 10.11.11.11 sqlpad.sightless.htb
 ```
 

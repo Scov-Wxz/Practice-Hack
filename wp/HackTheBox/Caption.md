@@ -41,7 +41,7 @@ Path=/; HttpOnly
 |     <meta property="og:image" content="http://10.10.11.33:8080/assets/common/images/gitbucket_ogp.png" />
 ...
 
-$ vi /etc/host
+$ vi /etc/hosts
 [+] 10.10.11.33 caption.htb
 ```
 
