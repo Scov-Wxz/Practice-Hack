@@ -46,6 +46,7 @@ admin@(eyou)
 admin@123
 admin@huawei.com
 admin*PWD
+admin001
 admin123
 Admin123
 admin888

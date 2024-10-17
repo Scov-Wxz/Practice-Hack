@@ -21,6 +21,7 @@ _query
 .htm
 .html
 .io
+.json
 .patch
 .php
 .txt
@@ -70,6 +71,8 @@ channel
 channels
 common
 condition
+config
+Config
 console
 contents
 crowd
