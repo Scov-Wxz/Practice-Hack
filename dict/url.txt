@@ -73,6 +73,7 @@ common
 condition
 config
 Config
+config.php
 console
 contents
 crowd
@@ -235,6 +236,7 @@ recommend
 register
 reset
 resources
+rest
 resume
 robots.txt
 root/
