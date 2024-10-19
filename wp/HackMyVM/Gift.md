@@ -2,13 +2,11 @@
 
 > Easy
 
-> 2024-08-28
-
 > 主机 IP: 192.168.8.8
 
 > 靶场 IP: 192.168.8.10
 
-```terminal
+```sh
 $ nmap -A -p- 192.168.8.10
 
 PORT   STATE SERVICE VERSION
