@@ -35,6 +35,7 @@ ROOT
 sa
 sangfor
 SL
+soli
 superman
 supermen
 supervisor
